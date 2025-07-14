@@ -12,7 +12,7 @@ A web application built with **FastAPI** and **Instaloader** to download Instagr
 
 ## Requirements
 
-- Python 3.7+
+- Python 
 - FastAPI
 - Uvicorn
 - Instaloader
